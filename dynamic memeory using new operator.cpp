@@ -1,4 +1,3 @@
-//Dynamic memory allocation using new operator
 #include<iostream>
 using namespace std;
 int main()
