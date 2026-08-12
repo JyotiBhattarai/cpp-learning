@@ -1,4 +1,4 @@
-//dynamic operator allocation using new and delete operator
+
 #include<iostream>
 using namespace std;
 int main()
