@@ -16,4 +16,4 @@ This repository contains my practice programs and learning materials as I contin
 
 I’m still at the learning stage, so this repository will continue to grow as I learn new concepts and improve my programming skills.
 
-This repository is a record of my C++ learning journey — **learning, practicing, making mistakes, and improving one program at a time.** 🚀
+This repository is a record of my C++ learning journey — **learning, practicing, making mistakes, and improving one program at a time.** 
