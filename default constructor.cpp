@@ -9,7 +9,8 @@ public:
      x=30;
      y=50;
    }
-    void display() {      // function defined inside class
+    void display() 
+{      
         cout << "\n x="<< x<<"\n y="<<y;
     }
     };
