@@ -15,8 +15,9 @@ void display()
 };
 int main()
 {
-    Sample s1(40,30);
-    Sample s2=Sample (50,60);
+    Sample s1(40,30);//implicit constructor call
+
+    Sample s2=Sample (50,60);//explicit
     s1.display();
     s2.display();
     return 0;
